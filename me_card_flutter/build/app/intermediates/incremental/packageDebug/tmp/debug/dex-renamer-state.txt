@@ -1,0 +1,4 @@
+#Sat Aug 29 15:34:04 IST 2020
+base.0=D\:\\Download Softwares\\Git Repository\\flutter-apps\\me_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
